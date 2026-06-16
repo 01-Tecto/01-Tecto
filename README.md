@@ -8,7 +8,7 @@
 ---
 
 ## 🧭 About Me / 自己紹介
-* **I'm "01Tecto" = "zero-ichi-tecto.**
+* **I'm "01-Tecto" = "zero-ichi-tecto".**
 * **IT Engineer & IT Vtuber.**
 * **"For someone, somewhere, for something."** <br>
   Centering around networking, OpenWrt, and Linux, <br>
